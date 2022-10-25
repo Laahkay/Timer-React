@@ -1,0 +1,55 @@
+body {
+ 
+  background-image: url("https://images8.alphacoders.com/548/548440.jpg");
+  background-size: cover;
+    
+}
+/* https://images8.alphacoders.com/548/548440.jpg */
+.App {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  max-width: 300px;
+background-image: url("https://wallpapercave.com/wp/wp7857251.jpg");
+background-size: cover;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+  position: relative;
+  left:35%;
+  font-style: italic;
+  color: #fffffffe;
+  box-shadow: 0 0 0 1px rgb(0, 0, 0);
+
+}
+.buttons {
+ background-color: black;
+  color: rgb(20, 124, 229);
+  font-style: italic;
+  padding: 9px;
+  text-transform: uppercase;
+  border-radius: 50%;
+  border: 1px solid rgb(20, 124, 229);
+/* border: none;  */
+}
+.footer {
+  position: relative;
+  top:28px ;
+  font-size: 7px;
+  color: rgb(249, 251, 253);
+  text-decoration: underline;
+  text-decoration-color: rgb(44, 129, 214) ;
+}
+hr {
+  background-color: rgb(0, 121, 242);
+}
+.time {
+  text-decoration: underline;
+  text-decoration-color: rgb(44, 129, 214) ;
+}
+.spans {
+  text-decoration: underline;
+  text-decoration-color: rgb(44, 129, 214) ;
+}
